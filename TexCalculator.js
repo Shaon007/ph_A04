@@ -14,8 +14,4 @@ function calculateTax(income, expense) {
   }
 }
 
-// const income1 = 6000;
-// const expense1 = -1500;
 
-// const result = calculateTax(income1, expense1);
-// console.log(result);
